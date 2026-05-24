@@ -24,6 +24,26 @@ Currently shipping in [`skills`](https://github.com/SMBexcel/skills):
 
 _Coming soon._
 
+### Roadmap (preview)
+
+The full plan is organized around the SMB owner-operator journey — from "should I buy a business?" through "now I'm running it." Each stage will get its own skills and workflows.
+
+```
+SMB·excel Roadmap/
+├── Prerequisites/
+│   └── e.g., AI Skills vs Workflows
+├── Search/
+│   └── e.g., Find
+├── Buy/
+│   └── e.g., Diligence
+├── Lead/
+│   └── e.g., Transition
+└── Grow/
+    └── e.g., Sales
+```
+
+Full breakdown and what's next ships in the newsletter.
+
 ---
 
 ## Stay in the loop
