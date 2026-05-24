@@ -31,15 +31,25 @@ The full plan is organized around the SMB owner-operator journey — from "shoul
 ```
 SMB·excel Roadmap/
 ├── Prerequisites/
-│   └── e.g., AI Skills vs Workflows
+│   ├── e.g., AI Skills vs Workflows
+│   ├── e.g., Claude Basics
+│   └── e.g., Change Management for AI
 ├── Search/
-│   └── e.g., Find
+│   ├── Find
+│   ├── Offer
+│   └── Win
 ├── Buy/
-│   └── e.g., Diligence
+│   ├── Diligence
+│   ├── Fund
+│   └── Close
 ├── Lead/
-│   └── e.g., Transition
+│   ├── Strategy
+│   ├── Transition
+│   └── Operate
 └── Grow/
-    └── e.g., Sales
+    ├── Marketing
+    ├── Sales & Pricing
+    └── Hiring
 ```
 
 Full breakdown and what's next ships in the newsletter.
