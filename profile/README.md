@@ -26,14 +26,6 @@ _Coming soon._
 
 ---
 
-## Why this exists
-
-Most operators spend the year waiting for the AI platforms to ship the feature they actually need. A few build it themselves in an evening and move on.
-
-This is where I publish the ones that worked — open-sourced under MIT, plug-and-play, and battle-tested in real work.
-
----
-
 ## Stay in the loop
 
 The build notes, the prompt patterns I actually use, and the next release ship in the newsletter:
