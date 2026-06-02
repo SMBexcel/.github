@@ -21,7 +21,7 @@ Self-contained skills you drop into your Claude skills directory. → [browse al
 
 Importable n8n automations that wire Claude into your search-and-buy operations. → [browse all](https://github.com/SMBexcel/free-ai-tools/tree/main/ai-workflows)
 
-- **[smb-bizquest-daily](https://github.com/SMBexcel/free-ai-tools/tree/main/ai-workflows/smb-bizquest-daily)** `v1.0` — Scrapes new BizQuest listings every morning, scores each against your buy box with Claude, drafts a personalized broker outreach for the strong fits, and posts the shortlist to Slack — every listing logged to a Google Sheet for an audit trail. Runs for under $5/month.
+- **[smb-bizquest-daily](https://github.com/SMBexcel/free-ai-tools/tree/main/ai-workflows/smb-bizquest-daily)** `v1.0` — Scrapes new BizQuest listings every morning, scores each against your buy box with Claude, drafts a personalized broker outreach for the strong fits, and posts the shortlist to Slack — every listing logged to a Google Sheet for an audit trail. Runs for ~$25–30/month (mostly the n8n plan).
 
 ### Roadmap (preview)
 
