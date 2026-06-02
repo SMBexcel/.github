@@ -2,7 +2,7 @@
 
 **Skills, workflows, and AI tooling for searchers, investors, and operators.**
 
-Open-source utilities built on top of Claude, n8n, and Notion. Each release ships alongside a write-up at [www.smbexcel.com](https://www.smbexcel.com).
+Open-source utilities built on top of Claude, [n8n](https://n8n.partnerlinks.io/qsoyb0o2mh2x), and Notion. Each release ships alongside a write-up at [www.smbexcel.com](https://www.smbexcel.com).
 
 ---
 
@@ -17,11 +17,11 @@ Self-contained skills you drop into your Claude skills directory. → [browse al
 - **[lemonade](https://github.com/SMBexcel/free-ai-tools/tree/main/claude-skills/lemonade)** `v1.2` — Persistent memory for Claude chats backed by a Notion database you own. Distill at end of session, rehydrate at the start of the next. Counters context rot.
 - **[smb-find-ibba](https://github.com/SMBexcel/free-ai-tools/tree/main/claude-skills/smb-find-ibba)** `v1.1` — Pull every IBBA business broker (~2,800) into a CSV — name, company, email, phone, website, location — straight from the directory's own public endpoints. No login, no cookie, no paid tool. _Claude Code only._
 
-### ⚙️ AI Workflows (n8n)
+### ⚙️ AI Workflows
 
-Importable n8n automations that wire Claude into your search-and-buy operations. → [browse all](https://github.com/SMBexcel/free-ai-tools/tree/main/ai-workflows)
+Importable [n8n](https://n8n.partnerlinks.io/qsoyb0o2mh2x) automations that wire Claude into your search-and-buy operations. → [browse all](https://github.com/SMBexcel/free-ai-tools/tree/main/ai-workflows)
 
-- **[smb-bizquest-daily](https://github.com/SMBexcel/free-ai-tools/tree/main/ai-workflows/smb-bizquest-daily)** `v1.0` — Scrapes new BizQuest listings every morning, scores each against your buy box with Claude, drafts a personalized broker outreach for the strong fits, and posts the shortlist to Slack — every listing logged to a Google Sheet for an audit trail. Runs for ~$25–30/month (mostly the n8n plan).
+- **[smb-bizquest-daily](https://github.com/SMBexcel/free-ai-tools/tree/main/ai-workflows/smb-bizquest-daily)** `v1.0` — Scrapes new BizQuest listings every morning, scores each against your buy box with Claude, drafts a personalized broker outreach for the strong fits, and posts the shortlist to Slack — every listing logged to a Google Sheet for an audit trail. Runs for ~$25–30/month (mostly the [n8n](https://n8n.partnerlinks.io/qsoyb0o2mh2x) plan).
 
 ### Roadmap (preview)
 
