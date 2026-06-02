@@ -10,4 +10,4 @@ The org landing content lives at [`profile/README.md`](./profile/README.md).
 
 ## Don't install this
 
-There's nothing to install or fork here — it's purely the org's front-door content. For actual skills and tools, see [SMBexcel/skills](https://github.com/SMBexcel/skills).
+There's nothing to install or fork here — it's purely the org's front-door content. For actual skills and tools, see [SMBexcel/free-ai-tools](https://github.com/SMBexcel/free-ai-tools).

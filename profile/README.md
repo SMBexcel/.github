@@ -8,20 +8,20 @@ Open-source utilities built on top of Claude, n8n, and Notion. Each release ship
 
 ## What's here
 
-### Skills (Claude.ai / Claude Code)
+Everything lives in one repo — **[free-ai-tools](https://github.com/SMBexcel/free-ai-tools)** — split into two folders:
 
-| Repo | Status | What it does |
-|---|---|---|
-| [**skills**](https://github.com/SMBexcel/skills) | active | Plug-and-play Claude skills. Drop a folder into your skills directory and they work. |
+### 🧠 Claude Skills (claude.ai / Claude Code)
 
-Currently shipping in [`skills`](https://github.com/SMBexcel/skills):
+Self-contained skills you drop into your Claude skills directory. → [browse all](https://github.com/SMBexcel/free-ai-tools/tree/main/claude-skills)
 
-- **[lemonade](https://github.com/SMBexcel/skills/tree/main/lemonade)** `v1.2` — Persistent memory for Claude chats backed by a Notion database you own. Distill at end of session, rehydrate at the start of the next. Counters context rot.
-- **[smb-find-ibba](https://github.com/SMBexcel/skills/tree/main/smb-find-ibba)** `v1.0` — Pull every IBBA business broker (~2,800) into a CSV — name, company, email, phone, website, location — straight from the directory's own public endpoints. No login, no cookie, no paid tool. _Claude Code only._
+- **[lemonade](https://github.com/SMBexcel/free-ai-tools/tree/main/claude-skills/lemonade)** `v1.2` — Persistent memory for Claude chats backed by a Notion database you own. Distill at end of session, rehydrate at the start of the next. Counters context rot.
+- **[smb-find-ibba](https://github.com/SMBexcel/free-ai-tools/tree/main/claude-skills/smb-find-ibba)** `v1.1` — Pull every IBBA business broker (~2,800) into a CSV — name, company, email, phone, website, location — straight from the directory's own public endpoints. No login, no cookie, no paid tool. _Claude Code only._
 
-### Workflows (n8n)
+### ⚙️ AI Workflows (n8n)
 
-_Coming soon._
+Importable n8n automations that wire Claude into your search-and-buy operations. → [browse all](https://github.com/SMBexcel/free-ai-tools/tree/main/ai-workflows)
+
+- **[smb-bizquest-daily](https://github.com/SMBexcel/free-ai-tools/tree/main/ai-workflows/smb-bizquest-daily)** `v1.0` — Scrapes new BizQuest listings every morning, scores each against your buy box with Claude, drafts a personalized broker outreach for the strong fits, and posts the shortlist to Slack — every listing logged to a Google Sheet for an audit trail. Runs for under $5/month.
 
 ### Roadmap (preview)
 
