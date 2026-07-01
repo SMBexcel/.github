@@ -17,6 +17,7 @@ Self-contained skills you drop into your Claude skills directory. → [browse al
 - **[lemonade](https://github.com/SMBexcel/free-ai-tools/tree/main/claude-skills/lemonade)** `v1.2` — Persistent memory for Claude chats backed by a Notion database you own. Distill at end of session, rehydrate at the start of the next. Counters context rot.
 - **[smb-find-ibba](https://github.com/SMBexcel/free-ai-tools/tree/main/claude-skills/smb-find-ibba)** `v1.1` — Pull every IBBA business broker (~2,800) into a CSV — name, company, email, phone, website, location — straight from the directory's own public endpoints. No login, no cookie, no paid tool. _Claude Code only._
 - **[smb-free-website](https://github.com/SMBexcel/free-ai-tools/tree/main/claude-skills/smb-free-website)** `v1.0` — A real, distinctive small-business website live at your own free URL in ~20 minutes. Claude scaffolds Astro, designs through a self-improving screenshot-driven loop, walks you through GitHub + Cloudflare. No credit card, no design experience, no developer CLI install. _Claude Code only._
+- **[sms-free-imessage-agent](https://github.com/SMBexcel/free-ai-tools/tree/main/claude-skills/sms-free-imessage-agent)** `v1.0` — Stand up your own AI sales/concierge agent on iMessage & SMS in ~40 minutes. It answers 24/7, captures leads, books calls, and remembers customers — on infrastructure you own (Cloudflare Workers + Blooio + Supabase + Claude), for pennies per conversation. Ships a working TypeScript template and an optional referral engine. _Claude Code only._
 
 ### ⚙️ AI Workflows
 
